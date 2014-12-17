@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RSS - </title>
-    <description> - </description>
-    <link>127.0.0.1:4000</link>
-    <atom:link href="127.0.0.1:4000/page/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 21 Nov 2014 22:54:55 +0800</pubDate>
-    <lastBuildDate>Fri, 21 Nov 2014 22:54:55 +0800</lastBuildDate>
-    <generator></generator>
+    <title>RSS - 光与暗的殿堂</title>
+    <description>光与暗的殿堂 - </description>
+    <link></link>
+    <atom:link href="/page/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 22 Nov 2014 00:09:09 +0800</pubDate>
+    <lastBuildDate>Sat, 22 Nov 2014 00:09:09 +0800</lastBuildDate>
+    <generator>消失的旅人</generator>
     
   </channel>
 </rss>
